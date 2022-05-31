@@ -1,5 +1,4 @@
-# Gestion_hotel
-Gestion d'une Hôtel
+# Gestion d'une Hôtel
 L’hôtel « Sous les cocotiers » vous fait appel pour automatiser sa gestion. Le domaine d’étude couvre les réservations, occupation des chambres, la consommation et la facturation.
 ●	Une réservation est faite pour plusieurs chambres par un client qui peut être accompagné de plusieurs autres personnes. 
 ●	Les dates d’occupation et de fin d’occupation des chambres pour une même réservation varient d’une chambre à une autre.
